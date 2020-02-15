@@ -1,0 +1,95 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	89
+#@/user_id	Win10-weasel
+a 	工	c=1 d=1 t=88
+adpu 	其实	c=1 d=1 t=69
+adwf 	基	c=1 d=1 t=79
+awx 	花	c=1 d=1 t=55
+b 	了	c=1 d=1 t=57
+bn 	也	c=1 d=1 t=70
+dbmh 	础	c=1 d=1 t=80
+def 	有	c=1 d=1 t=78
+e 	有	c=1 d=0.99005 t=89
+fcu 	去	c=1 d=1 t=63
+g 	一	c=1 d=1 t=49
+gc 	到	c=1 d=1 t=41
+gcfj 	到	c=1 d=1 t=72
+gg 	五	c=1 d=1 t=75
+imc 	没	c=1 d=1 t=77
+ipb 	学	c=1 d=1 t=71
+jf 	时	c=1 d=1 t=60
+jh 	早	c=1 d=1 t=42
+jhhh 	早上	c=1 d=1 t=37
+lkd 	回	c=2 d=1.92774 t=66
+nh 	收	c=1 d=1 t=40
+q 	我	c=2 d=1.58399 t=89
+qq 	多	c=2 d=1.92774 t=74
+r 	的	c=1 d=1 t=89
+ri 	朱	c=1 d=1 t=83
+td 	知	c=1 d=1 t=38
+thnn 	自己	c=1 d=1 t=68
+tjt 	复	c=3 d=2.86013 t=67
+ts 	条	c=1 d=1 t=50
+ttfn 	笔	c=1 d=1 t=76
+tuh 	乎	c=1 d=1 t=39
+tve 	很	c=2 d=1.92774 t=73
+uj 	间	c=2 d=1.99501 t=62
+w 	人	c=1 d=0.985112 t=89
+wo 	伙	c=1 d=1 t=82
+wori 	伙朱	c=1 d=1 t=89
+wygd 	今天	c=1 d=1 t=36
+yguh 	评	c=1 d=1 t=64
+ywx 	论	c=1 d=1 t=65
+encaddb 	基础	c=0 d=0.1 t=80
+encapbi 	其实也学	c=0 d=0.1 t=71
+encapbn 	其实也	c=0 d=0.1 t=70
+encbigc 	也学到	c=0 d=0.1 t=72
+encbigt 	也学到很	c=0 d=0.1 t=73
+encbnip 	也学	c=0 d=0.1 t=71
+encbntv 	了很	c=0 d=0.1 t=58
+encbtqj 	了很多时	c=0 d=0.1 t=60
+encbtqq 	了很多	c=0 d=0.1 t=59
+encdadb 	有基础	c=0 d=0.1 t=80
+encdead 	有基	c=0 d=0.1 t=79
+encgcjh 	到早	c=1 d=1 t=48
+encgctv 	到很	c=0 d=0.1 t=73
+encggts 	一条	c=0 d=0.1 t=50
+encgtqq 	到很多	c=0 d=0.1 t=74
+encidad 	没有基	c=0 d=0.1 t=79
+encidad 	没有基础	c=0 d=0.1 t=80
+encigtq 	学到很多	c=0 d=0.1 t=74
+encigtv 	学到很	c=0 d=0.1 t=73
+encimde 	没有	c=0 d=0.1 t=78
+encipgc 	学到	c=0 d=0.1 t=72
+encjfuj 	时间	c=0 d=0.1 t=61
+encjhtd 	早上知	c=0 d=0.1 t=38
+encjhtt 	早上知乎	c=0 d=0.1 t=39
+enclktj 	回复	c=0 d=0.1 t=67
+encngjh 	收到早	c=0 d=0.1 t=48
+encqjuj 	多时间	c=0 d=0.1 t=61
+encqqjf 	多时	c=0 d=0.1 t=60
+enctdtu 	知乎	c=0 d=0.1 t=39
+enctida 	笔没有基	c=0 d=0.1 t=79
+enctide 	笔没有	c=0 d=0.1 t=78
+enctnap 	自己其实	c=0 d=0.1 t=69
+enctngj 	乎收到早	c=0 d=0.1 t=48
+enctqjf 	很多时	c=0 d=0.1 t=60
+enctqju 	很多时间	c=0 d=0.1 t=61
+enctraw 	我花	c=0 d=0.1 t=55
+encttim 	笔没	c=0 d=0.1 t=77
+encttnh 	知乎收	c=0 d=0.1 t=40
+enctunh 	乎收	c=0 d=0.1 t=40
+enctvqq 	很多	c=0 d=0.1 t=74
+encujfc 	间去	c=0 d=0.1 t=63
+encwgjh 	今天早上	c=0 d=0.1 t=37
+encwori 	伙朱	c=1 d=1 t=87
+encwraa 	伙朱工	c=0 d=0.1 t=88
+encwwde 	人有	c=0 d=0.099005 t=89
+encygyw 	评论	c=0 d=0.1 t=65
+encyltj 	论回复	c=0 d=0.1 t=67
+encywlk 	论回	c=0 d=0.1 t=66
+encyylk 	评论回	c=0 d=0.1 t=66
+encyylt 	评论回复	c=0 d=0.1 t=67
