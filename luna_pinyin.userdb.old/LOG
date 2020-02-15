@@ -1,0 +1,9 @@
+2019/12/01-17:46:36.317000 9748 Log #277: 0 ops saved to Table #278 OK
+2019/12/01-17:46:36.318000 9748 Archiving C:\Users\olymk\AppData\Roaming\Rime\luna_pinyin.userdb/000277.log: OK
+2019/12/01-17:46:36.318000 9748 Table #254: 482 entries OK
+2019/12/01-17:46:36.319000 9748 Table #256: 177 entries OK
+2019/12/01-17:46:36.319000 9748 Table #271: 500 entries OK
+2019/12/01-17:46:36.319000 9748 Table #273: 16 entries OK
+2019/12/01-17:46:36.319000 9748 Table #276: 6 entries OK
+2019/12/01-17:46:36.320000 9748 Archiving C:\Users\olymk\AppData\Roaming\Rime\luna_pinyin.userdb/MANIFEST-000275: OK
+2019/12/01-17:46:36.327000 9748 **** Repaired leveldb C:\Users\olymk\AppData\Roaming\Rime\luna_pinyin.userdb; recovered 5 files; 47867 bytes. Some data may have been lost. ****

@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	cangjie5.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	3
+#@/user_id	4fb8f7d9-104e-4807-ad03-13bea3f26262
+niha 	蛋白	c=1 d=1 t=3
+uuuu 	茻	c=1 d=0.995012 t=3

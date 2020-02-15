@@ -1,0 +1,25 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	19
+#@/user_id	4fb8f7d9-104e-4807-ad03-13bea3f26262
+ai 	愛	c=1 d=1 t=8
+an jian 	按鍵	c=1 d=1 t=14
+fa 	發	c=-1 d=0 t=14
+fan 	飯	c=-1 d=0 t=14
+fang shi 	方式	c=1 d=1 t=2
+fou 	否	c=-1 d=0.995012 t=14
+fu 	副	c=-1 d=0 t=12
+huan ye 	換頁	c=1 d=1 t=12
+hui shi 	回事	c=1 d=1 t=7
+ni 	你	c=4 d=2.98506 t=19
+ni hao 	你好	c=2 d=1 t=15
+ni hao 	禰好	c=1 d=1 t=16
+ni hong 	霓虹	c=-1 d=0 t=9
+ni shi 	尼是	c=-1 d=1 t=9
+shu ru fa 	輸入法	c=1 d=1 t=1
+xiao lang hao 	小狼毫	c=1 d=1 t=10
+zen 	怎	c=1 d=1 t=4
+zen me 	怎麼	c=3 d=2.98012 t=6
+zi ding yi 	自定義	c=1 d=1 t=11

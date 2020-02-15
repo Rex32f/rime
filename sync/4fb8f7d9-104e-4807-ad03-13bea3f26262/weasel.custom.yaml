@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Nov 29 22:45:28 2019"
+  rime_version: 1.5.3
+patch:
+  "style/color_scheme": aqua
+  "key_binder/bindings":
+    - {accept: "Control+h", send: Page_Up, when: composing}
+    - {accept: "Control+l", send: Page_Down, when: composing}
