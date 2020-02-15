@@ -2,5 +2,6 @@ distribution_code_name: Squirrel
 distribution_name: "鼠鬚管"
 distribution_version: 0.14.0
 install_time: "Sat Feb 15 12:16:38 2020"
-installation_id: "a2d7a579-5401-4a6a-a18c-3acec8c57a0f"
+installation_id: "Mac-squirrel"
 rime_version: 1.5.3
+sync_dir: /Users/olymk/Library/Rime/sync

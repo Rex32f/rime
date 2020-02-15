@@ -3,7 +3,7 @@
 #@/db_type	userdb
 #@/rime_version	1.5.3
 #@/tick	942
-#@/user_id	a2d7a579-5401-4a6a-a18c-3acec8c57a0f
+#@/user_id	Mac-squirrel
 a 	啊	c=3 d=1.38235 t=942
 ai 	唉	c=1 d=0.814647 t=942
 ai 	愛	c=1 d=0.923116 t=942
