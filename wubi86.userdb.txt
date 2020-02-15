@@ -1,0 +1,11 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	35
+#@/user_id	win10-olymk
+e 	有	c=1 d=0.99005 t=35
+q 	我	c=1 d=0.97531 t=35
+r 	的	c=1 d=1 t=35
+w 	人	c=1 d=0.985112 t=35
+encwwde 	人有	c=0 d=0.099005 t=35

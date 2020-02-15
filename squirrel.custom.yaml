@@ -1,0 +1,28 @@
+customization:
+  distribution_code_name: Squirrel
+  distribution_version: 0.14.3
+  generator: "Squirrel::UIStyleSettings"
+  modified_time: "Sun Dec  1 21:40:49 2019"
+  rime_version: 1.5.3
+patch:
+  preset_color_schemes:
+    blackwhite: {author: luwei, back_color: 0xFFFFFF, border_color: 0x000000, candidate_text_color: 0x000000, comment_text_color: 0xDDDDDD, hilited_back_color: 0xDDDDDD, hilited_candidate_back_color: 0x616161, hilited_candidate_text_color: 0xFFFFFF, hilited_text_color: 0x0078d7, name: "黑白", text_color: 0xFFFFFF}
+  style:
+    color_scheme: blackwhite
+    display_tray_icon: false
+    font_face: PingFangSC
+    font_point: 16
+    border_height: 6                  #设置输入条上下宽度
+    border_width: 6                  #设置输入条左右宽度
+    corner_radius: 5
+    hilited_candidate_label_color: 0xffffff   #第一候选字标签颜色，也就是数字1
+    hilited_corner_radius: 5 
+    label_color: 0x888888             #普通标签的颜色(非第一候选字)，也就是候选字数字
+    label_font_point: 12              #普通标签的字体大小
+    horizontal: true
+    inline_preedit: true
+    label_format: "%s."
+    candidate_format: "%c %@  " 
+    layout: {border: 3, border_width: 3, candidate_spacing: 5, hilite_padding: 4, hilite_spacing: 2, margin_x: 10, margin_y: 10, min_height: 100, min_width: 80, round_corner: 5, spacing: 100}
+    preedit_type: composition
+  "style/color_scheme": blackwhite

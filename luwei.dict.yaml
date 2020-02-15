@@ -1,0 +1,10 @@
+---
+name: luwei
+version: "2019.12.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - meow_emoji
+  - sougou_pinyin
+...

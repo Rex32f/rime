@@ -1,0 +1,4 @@
+patch:
+  engine:
+    translators:
+      - lua_translator@date_translator  # 日期时间变量输出
